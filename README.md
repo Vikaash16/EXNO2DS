@@ -47,9 +47,9 @@ df.describe()
 df.dtypes
 ```
 <img width="280" height="281" alt="image" src="https://github.com/user-attachments/assets/e1d303d7-e352-408e-85f3-da79f015f9b1" />
-
+```
 df.shape
-
+```
 <img width="139" height="25" alt="image" src="https://github.com/user-attachments/assets/7d140f37-4ba5-4f20-add0-49ccb0102aa6" />
 
 df.value_counts()
